@@ -1,3 +1,3 @@
 # this is dev config
 config:
-  info: this is test value; version = 3.0
+  info: this is test value; version = 5.0
